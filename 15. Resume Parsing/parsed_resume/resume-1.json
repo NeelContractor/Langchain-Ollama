@@ -1,0 +1,60 @@
+{
+    "Contact Information": {
+        "Name": "Kumar Pallav",
+        "Email": "me@kumarpallav.com",
+        "Phone Number": "+1-206-910-0006",
+        "Website/Portfolio": "http://kumarpallav.com"
+    },
+    "Education": {
+        "Institution Name": "Indian Institute of Technology, Bombay",
+        "Degree": "Bachelor of Computer Science and Engineering (with Hons.)",
+        "Field of Study": "CGPA 8.6/10",
+        "Graduation Dates": "Jun 2010 - May 2014"
+    },
+    "Experience": {
+        "Job Title": "Software Engineering Intern",
+        "Company Name": "Oracle",
+        "Location": "Bangalore, India",
+        "Dates of Employment": "Nov 2014 - May 2016",
+        "Responsibilities/Projects": [
+            "Containerization of iOS Apps: Swizzling, objective-c backend, dynamic libraries for sandboxing."
+        ]
+    },
+    "Projects": {
+        "Project Title": "Course Allotment Simulation using SAT Solver",
+        "Description/Technologies Used": "Solved SAT problems, studied heuristics, used MiniSAT and Glucose.",
+        "Outcomes/Results": "Inferred course policy effects, studied solvers' efficiency."
+    },
+    "Skills": {
+        "Programming Languages": [
+            "C++",
+            "CSharp",
+            "JavaScript",
+            "Java",
+            "C"
+        ],
+        "Technologies/Tools": [
+            "NodeJs",
+            "UWP",
+            "Win32"
+        ]
+    },
+    "Additional Information": {
+        "Projects": [
+            "Course Allotment Simulation using SAT Solver",
+            "IIT Bombay Hospital Digitization"
+        ],
+        "Certifications": [
+            "No certifications listed"
+        ],
+        "Awards or Honors": [
+            "No awards listed"
+        ],
+        "Professional Affiliations": [
+            "No affiliations listed"
+        ],
+        "Languages": [
+            "Languages: C++ , CSharp , JavaScript , Java , C"
+        ]
+    }
+}
